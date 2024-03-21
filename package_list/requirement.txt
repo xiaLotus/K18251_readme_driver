@@ -1,0 +1,8 @@
+certifi==2.2
+chardet==3.0.4
+urllibs==1.26.17
+requests==2.31.0
+charset-normalizer==3.3.2
+idna==3.6
+beautifulsoup4==4.12.3
+soupsieve==2.5
